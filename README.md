@@ -13,3 +13,6 @@ The program will continue running until the ball has gone beyond either paddle o
 For added fun, the program also prints the x,y, and z velocities (respectively) after each collision with a paddle if you would like to see how it varies.
 
 Disclaimer: Before running the program, one must know that it can be glitchy the first time you run it. User controls may not work and may lag behind. This is not unusual, and I recommend to kill the program and re run it until the program functions properly.
+
+
+See one of the attached .mov or .png files to see images/videos of the final project
